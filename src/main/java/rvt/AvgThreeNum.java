@@ -21,5 +21,6 @@ public class AvgThreeNum {
         double average = (num1 + num2 + num3) / 3.0;
 
         System.out.println("The average is: " + average);
+        scanner.close();
     }
 }
