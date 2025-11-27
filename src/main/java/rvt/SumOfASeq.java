@@ -18,5 +18,6 @@ public class SumOfASeq {
 
         System.out.println("Last number? " + n);
         System.out.println("The sum is " + sum);
+        sc.close();
     }
 }
