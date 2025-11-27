@@ -41,3 +41,4 @@ public class Delikatese {
         System.out.println("    kopā " + "  " + kopa);
     }
 }
+// test
