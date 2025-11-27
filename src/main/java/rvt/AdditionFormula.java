@@ -12,5 +12,6 @@ public class AdditionFormula {
         int result = a + b;
         System.out.println();
         System.out.println(a + "+" + b + "=" + result);
+        scanner.close();
     }
 }
