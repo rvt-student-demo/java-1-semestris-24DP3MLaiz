@@ -23,5 +23,6 @@ public class Detalas {
         double kopsumma = (skruves * 5) + (uzgriezni * 3) + (paplaksnes * 1);
 
         System.out.println("Kopējā cena: " + kopsumma);
+        sc.close();
     }
 }
